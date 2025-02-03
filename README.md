@@ -1,2 +1,3 @@
-# Brotato-Like
-this is just a simple copy of the game Brotato
+# B&M
+2D game where you fight off waves of enemies
+this project is under development
